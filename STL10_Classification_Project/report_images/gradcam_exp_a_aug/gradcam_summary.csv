@@ -1,0 +1,11 @@
+file,true_label,pred_label,confidence,status
+00_airplane_pred-airplane_correct.png,airplane,airplane,0.8384,correct
+01_bird_pred-monkey_wrong.png,bird,monkey,0.9995,wrong
+02_car_pred-car_correct.png,car,car,0.9997,correct
+03_cat_pred-cat_correct.png,cat,cat,0.8142,correct
+04_deer_pred-car_wrong.png,deer,car,0.9814,wrong
+05_dog_pred-cat_wrong.png,dog,cat,0.9817,wrong
+06_horse_pred-horse_correct.png,horse,horse,0.9985,correct
+07_monkey_pred-monkey_correct.png,monkey,monkey,0.4047,correct
+08_ship_pred-ship_correct.png,ship,ship,1.0000,correct
+09_truck_pred-truck_correct.png,truck,truck,0.9930,correct
